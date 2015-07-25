@@ -1,0 +1,7 @@
+Git Workflow:
+	modify
+	add
+	commit
+		rinse and repeat
+
+		This is getting pretty crazy!
