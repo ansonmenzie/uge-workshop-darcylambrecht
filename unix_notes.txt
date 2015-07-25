@@ -1,0 +1,367 @@
+    1  sudo apt-get install gnome gnome-shell
+    2  sudo apt-get install git geany
+    3  sudo apt-get install gtypist
+    4  gtypist
+    5  makedir projects
+    6  mkdir
+    7  mk dir projects
+    8  mkdir projects
+    9  cd projects
+   10  git clone https://github.com/dlambrecht/learning.git
+   11  cd learning
+   12  git status
+   13  git checkout develop
+   14  cd python
+   15  ls
+   16  chmod a+x * 
+   17  git status
+   18  ./loopystring
+   19  ./loopystring.py 
+   20  sudo apt-get install tint2
+   21  tint2&
+   22  sudo apt-get install gnome-tweak-tool
+   23  python loopystring.py 
+   24  python2.7 loopystring.py 
+   25  python3 loopystring.py 
+   26  sudo update-alternatives --list python
+   27  sudo update-alternatives --list /usr/bin/python
+   28  sudo update-alternatives --list python
+   29  ./loopystring.py 
+   30  ls
+   31  vi carsalesman.py 
+   32  dos2unix
+   33  sudo apt-get install dos2unix
+   34  dos2unix *
+   35  ls
+   36  git status
+   37  vi carsalesman.py 
+   38  ./loopystring.py 
+   39  ls
+   40  head *
+   41  ls
+   42  vi carsalesman.py 
+   43  vi fancycredits.py 
+   44  sudo apt-get install vim
+   45  ls
+   46  vi finicky\ counter.py 
+   47  vi foods2.py 
+   48  vi fortune.py 
+   49  vi game_over.py 
+   50  vi granted\ or\ denied.py 
+   51  vi name5.py 
+   52  vi name
+   53  vi name.py 
+   54  vi password.py 
+   55  vi quote.py 
+   56  vi silly_strings.py 
+   57  vi three\ year\ old.py 
+   58  vi tipper.py 
+   59  vi uselesstrivia.py 
+   60  vi word_problems.py 
+   61  ls
+   62  git status
+   63  git diff
+   64  ls
+   65  ./quote.py 
+   66  ./password.py 
+   67  ls
+   68  ./three\ year\ old.py 
+   69  ls
+   70  vi three\ year\ old.py 
+   71  ./three\ year\ old.py 
+   72  vi three\ year\ old.py 
+   73  ./three\ year\ old.py 
+   74  locate
+   75  locate git-prompt.sh
+   76  sudo apt-get install bash-completion
+   77  ls /usr/share/git-core/contrib/
+   78  vi ~/.bashrc
+   79  source ~/.bashrc 
+   80  sudo apt-get git
+   81  sudo apt-get install git
+   82  sudo apt-cache search git
+   83  find contrib/completion/git-prompt.sh
+   84  find ~ -name git-prompt.sh
+   85  find / -name git-prompt.sh
+   86  find / -name git-prompt.sh 2>&1 | grep -v "Permission denied"
+   87  vi ~/.bashrc 
+   88  source ~/.bashrc 
+   89  ls
+   90  vi ~/.bashrc 
+   91  source ~/.bashrc 
+   92  ls
+   93  git status
+   94  ./loopystring.py 
+   95  ./counting.py
+   96  chmod +x counting.py
+   97  ./counting
+   98  ./counting.py 
+   99  python3 counting.py 
+  100  chmod -x counting.py 
+  101  ./counting.py
+  102  python3 counting.py 
+  103  chmod +x counting.py 
+  104  ./counting.py 
+  105  chmod +x message analyzer.py
+  106  chmod +x messageanalzer.py
+  107  chmod +x "message analyzer.py"
+  108  ./message\ analyzer.py 
+  109  chmod +x randomaccess.py
+  110  ./randomaccess.py
+  111  chmod +x novowels.py
+  112  ./novowels.py
+  113  chmod +x pizzaslicer.py
+  114  ./pizzaslicer.py
+  115  chmod +x hero.py
+  116  ./hero.py
+  117  gtypist
+  118  sudo su -
+  119  sudo apt- get install ubuntu-gnome-desktop
+  120  sudo apt-get install ubuntu-gnome-desktop
+  121  sudo su -
+  122  cd projects
+  123  ls
+  124  mkdir coag
+  125  cd coag
+  126  git init
+  127  git checkout -b develop
+  128  echo $SHELL
+  129  pwd
+  130  ls
+  131  cd /home/darcy/
+  132  ls /etc
+  133  ls /var/log
+  134  ls /bin
+  135  cd /usr/bin
+  136  ls /usr/bin
+  137  cd /home/darcy/
+  138  pwd
+  139  file Documents
+  140  ls Documents
+  141  cd Documents
+  142  ls
+  143  ls -a
+  144  ls home
+  145  file home
+  146  ls -a Home
+  147  cd /home/darcy/
+  148  ls -a /home/darcy/
+  149  man ls
+  150  ls --all
+  151  ls -alh
+  152  man cd
+  153  manman pwd
+  154  man dir
+  155  man mk
+  156  pwd
+  157  ls
+  158  mkdir linuxtutorialwork
+  159  la
+  160  ls
+  161  man cp
+  162  man mv
+  163  ls sublime
+  164  cd Downloads
+  165  ls
+  166  cd sublime_text
+  167  gtypist
+  168  install gtypist
+  169  gtypist
+  170  dmesg
+  171  gtypist
+  172  git
+  173  git --version
+  174  git init my_first_repository
+  175  ls
+  176  cd my_first_repository
+  177  ls
+  178  ls -a
+  179  cd -
+  180  mkdir my_really_cool_project
+  181  cd my_really_cool_project/
+  182  touch file1
+  183  touch file2
+  184  touch file3
+  185  ls
+  186  clear
+  187  git init
+  188  ls -a
+  189  cd ..
+  190  clear
+  191  mv my_first_repsoitory/ my_even_cooler_project
+  192  ls
+  193  rm -r my_even_cooler_project
+  194  clear
+  195  nano
+  196  nano ~/.bashrc
+  197  echo $PS1
+  198  nano ~/.bashrc
+  199  fg
+  200  source ~/.bashrc
+  201  clear
+  202  git config --global user.name "Darcy"
+  203  git config --global user.email "darcy_lambrecht@yahoo.com"
+  204  ls .git
+  205  ls .git*
+  206  cat .gitconfig
+  207  git
+  208  git config --global user.name "Darcy Lambrecht"
+  209  sudo apt-get install clamav
+  210  ls
+  211  rm -rf my_*
+  212  ls
+  213  cd projects
+  214  ls
+  215  cd learning
+  216  git status
+  217  git add .
+  218  git status
+  219  git commit
+  220  git status
+  221  git push
+  222  git remote
+  223  git remote -feed
+  224  git remote -v
+  225  ls
+  226  gnome-open README.md 
+  227  geany README.md 
+  228  clear
+  229  whereis sublime
+  230  nano ~/.bashrc
+  231  echo $PATH
+  232  source ~/.bashrc
+  233  echo $PATH
+  234  sublime_text
+  235  file ~/Downloads/Sublime\ Text\ 2/sublime_text
+  236  ls -l ~/Downloads/Sublime\ Text\ 2/sublime_text
+  237  /home/darcy/Downloads/Sublime\ Text\ 2/sublime_text
+  238  nano ~/.bashrc
+  239  source ~/.bashrc
+  240  echo $PATH
+  241  sublime_text 
+  242  cd
+  243  clear
+  244  git--version
+  245  git --version
+  246  clear
+  247  gtypist
+  248  gtypist 
+  249  gtypist
+  250  git
+  251  sublime_text 
+  252  git --version
+  253  gtypist
+  254  geany
+  255  sublime_text 
+  256  echo $SHELL
+  257  PWD
+  258  pwd
+  259  ls
+  260  cd linuxtutorialwork/
+  261  ls
+  262  cd
+  263  pwd
+  264  /etc
+  265  cd /etc
+  266  ls
+  267  cd
+  268  cd/var/log
+  269  log
+  270  clear
+  271  pwd
+  272  ls -a
+  273  ls --all
+  274  ls -alh
+  275  clear
+  276  gtypist
+  277  geany
+  278  git
+  279  sublime_text 
+  280  git --version
+  281  gtypist 
+  282  pwd
+  283  cd 
+  284  pwd
+  285  cd /
+  286  ls
+  287  ls -t
+  288  l -l
+  289  ls -lt
+  290  clear
+  291  ls -r
+  292  ls -rlt
+  293  ls -rt
+  294  man ls
+  295  man
+  296  man ls
+  297  ls -a
+  298  ls -D
+  299  ls -d
+  300  man ls
+  301  ls -s
+  302  ls -S
+  303  man ls
+  304  ls -f
+  305  man ls
+  306  ls -g
+  307  man  ls
+  308  ls -x
+  309  man ls
+  310  ls -o
+  311  man ls
+  312  ls -q
+  313  clear
+  314  cd /home/darcy
+  315  pwd
+  316  ls
+  317  ls -l
+  318  cd projects
+  319  pwd
+  320  ls
+  321  cd history
+  322  pwd
+  323  ls
+  324  cd learning
+  325  cd ..
+  326  cd ../..
+  327  pwd
+  328  cd ../..
+  329  pwd
+  330  cd /home/darcy
+  331  pwd
+  332  ls
+  333  cd pictures
+  334  cd Pictures
+  335  ls
+  336  clear
+  337  cd /home/darcy
+  338  ls
+  339  cd Downloads
+  340  ls
+  341  cd projects
+  342  cd
+  343  cd projects
+  344  ls
+  345  cd learning
+  346  ../..
+  347  ls /
+  348  ls /Users/
+  349  cd
+  350  ls
+  351  ls ~
+  352  cd Documents
+  353  l
+  354  ls
+  355  ../..
+  356  cd ../..
+  357  cd~
+  358  cd ~
+  359  pwd
+  360  clear
+  361  history
+  362  history 20
+  363  history | less
+  364  man ls less
+  365  clear
+  366  pwd
+  367  history > moving_around.txt
