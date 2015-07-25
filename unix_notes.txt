@@ -1,3 +1,5 @@
+  Making some changes to the file.
+
     1  sudo apt-get install gnome gnome-shell
     2  sudo apt-get install git geany
     3  sudo apt-get install gtypist
